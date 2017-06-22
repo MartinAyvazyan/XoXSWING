@@ -10,7 +10,7 @@ public class MyFrame extends JFrame {
         mp=new MyPanel();
         add(mp);
 
-        setSize(400,460);
+        setSize(400,450);
         setLocation(100,100);
         setTitle("XO");
         setVisible(true);
